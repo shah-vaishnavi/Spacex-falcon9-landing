@@ -1,4 +1,4 @@
-SpaceX Falcon 9 Landing Success Prediction
+SpaceX Falcon 9 Landing Prediction
 
 A data science capstone project focused on predicting the success of Falcon 9 rocket landings using machine learning and dashboard analytics.
 
